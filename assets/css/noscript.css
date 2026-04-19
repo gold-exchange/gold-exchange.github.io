@@ -1,0 +1,5 @@
+/* noscript fallback */
+body.is-preload * {
+  animation: none !important;
+  transition: none !important;
+}

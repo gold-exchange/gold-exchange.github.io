@@ -1,0 +1,16 @@
+# GitHub Pages Jekyll 설정 파일
+# (HTML 사이트이므로 Jekyll 처리 비활성화)
+
+# 사이트 기본 정보
+title: "분당 금거래소 | 금 매입 전문"
+description: "성남 분당 금 매입 전문점. 금반지·금목걸이·돌반지·18K·14K·순금 최고가 매입. 당일 현금 즉시 지급."
+url: "https://bundang-gold.github.io"
+baseurl: ""
+lang: "ko"
+
+# Jekyll 처리 제외 (순수 HTML 사이트)
+exclude:
+  - README.md
+  - "*.sh"
+  - Gemfile
+  - Gemfile.lock
